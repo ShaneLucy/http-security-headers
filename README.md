@@ -1,4 +1,4 @@
-[![lint](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/lint.yml/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/lint.yml/badge.svg) [![build](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/build.yml/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/build.yml/badge.svg) [![coverage](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/coverage.yml/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/coverage.yml/badge.svg) [![test](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/test.yml/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/test.yml/badge.svg) [![Code Issues](https://img.shields.io/codeclimate/issues/<OWNER>/<REPOSITORY>?logo=codeclimate&logoWidth=20)](https://img.shields.io/codeclimate/issues/<OWNER>/<REPOSITORY>?logo=codeclimate&logoWidth=20) [![Tech Debt](https://img.shields.io/codeclimate/tech-debt/<OWNER>/<REPOSITORY>?logo=codeclimate&logoWidth=20)](https://img.shields.io/codeclimate/tech-debt/<OWNER>/<REPOSITORY>?logo=codeclimate&logoWidth=20) [![Code Quality](https://img.shields.io/codefactor/grade/github/<OWNER>/<REPOSITORY>/master?logo=codefactor&logoWidth=20)](https://img.shields.io/codefactor/grade/github/<OWNER>/<REPOSITORY>/master?logo=codefactor&logoWidth=20) [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/<OWNER>/<REPOSITORY>?logo=snyk&logoWidth=20)](https://img.shields.io/snyk/vulnerabilities/github/<OWNER>/<REPOSITORY>?logo=snyk&logoWidth=20) [![Code Size](https://img.shields.io/github/languages/code-size/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20)](https://img.shields.io/github/languages/code-size/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20) [![Repo Size](https://img.shields.io/github/repo-size/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20)](https://img.shields.io/github/repo-size/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20) [![Issues](https://img.shields.io/github/issues-raw/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20)](https://img.shields.io/github/issues-raw/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20) [![Last Commit](https://img.shields.io/github/last-commit/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20)](https://img.shields.io/github/last-commit/<OWNER>/<REPOSITORY>?logo=github&logoWidth=20) [![Test Coverage](https://img.shields.io/coveralls/github/<OWNER>/<REPOSITORY>?logo=coveralls&logoWidth=20)](https://img.shields.io/coveralls/github/<OWNER>/<REPOSITORY>?logo=coveralls&logoWidth=20) [![Sonar Cloud Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=<OWNER>_<REPOSITORY>&metric=alert_status)](https://sonarcloud.io/api/project_badges/measure?project=<OWNER>_<REPOSITORY>&metric=alert_status)
+[![lint](https://github.com/ShaneLucy/http-security-headers/actions/workflows/lint.yml/badge.svg)](https://github.com/ShaneLucy/http-security-headers/actions/workflows/lint.yml/badge.svg) [![build](https://github.com/ShaneLucy/http-security-headers/actions/workflows/build.yml/badge.svg)](https://github.com/ShaneLucy/http-security-headers/actions/workflows/build.yml/badge.svg) [![coverage](https://github.com/ShaneLucy/http-security-headers/actions/workflows/coverage.yml/badge.svg)](https://github.com/ShaneLucy/http-security-headers/actions/workflows/coverage.yml/badge.svg) [![test](https://github.com/ShaneLucy/http-security-headers/actions/workflows/test.yml/badge.svg)](https://github.com/ShaneLucy/http-security-headers/actions/workflows/test.yml/badge.svg) [![Code Issues](https://img.shields.io/codeclimate/issues/ShaneLucy/http-security-headers?logo=codeclimate&logoWidth=20)](https://img.shields.io/codeclimate/issues/ShaneLucy/http-security-headers?logo=codeclimate&logoWidth=20) [![Tech Debt](https://img.shields.io/codeclimate/tech-debt/ShaneLucy/http-security-headers?logo=codeclimate&logoWidth=20)](https://img.shields.io/codeclimate/tech-debt/ShaneLucy/http-security-headers?logo=codeclimate&logoWidth=20) [![Code Quality](https://img.shields.io/codefactor/grade/github/ShaneLucy/http-security-headers/master?logo=codefactor&logoWidth=20)](https://img.shields.io/codefactor/grade/github/ShaneLucy/http-security-headers/master?logo=codefactor&logoWidth=20) [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/ShaneLucy/http-security-headers?logo=snyk&logoWidth=20)](https://img.shields.io/snyk/vulnerabilities/github/ShaneLucy/http-security-headers?logo=snyk&logoWidth=20) [![Code Size](https://img.shields.io/github/languages/code-size/ShaneLucy/http-security-headers?logo=github&logoWidth=20)](https://img.shields.io/github/languages/code-size/ShaneLucy/http-security-headers?logo=github&logoWidth=20) [![Repo Size](https://img.shields.io/github/repo-size/ShaneLucy/http-security-headers?logo=github&logoWidth=20)](https://img.shields.io/github/repo-size/ShaneLucy/http-security-headers?logo=github&logoWidth=20) [![Issues](https://img.shields.io/github/issues-raw/ShaneLucy/http-security-headers?logo=github&logoWidth=20)](https://img.shields.io/github/issues-raw/ShaneLucy/http-security-headers?logo=github&logoWidth=20) [![Last Commit](https://img.shields.io/github/last-commit/ShaneLucy/http-security-headers?logo=github&logoWidth=20)](https://img.shields.io/github/last-commit/ShaneLucy/http-security-headers?logo=github&logoWidth=20) [![Test Coverage](https://img.shields.io/coveralls/github/ShaneLucy/http-security-headers?logo=coveralls&logoWidth=20)](https://img.shields.io/coveralls/github/ShaneLucy/http-security-headers?logo=coveralls&logoWidth=20) [![Sonar Cloud Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=ShaneLucy_http-security-headers&metric=alert_status)](https://sonarcloud.io/api/project_badges/measure?project=ShaneLucy_http-security-headers&metric=alert_status)
 
 # TODO
 
@@ -10,49 +10,27 @@
 
 # Project Title
 
-Simple overview of use/purpose.
+HTTP Security Headers
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A serverless function ran on cloudflare workers that intercepts incoming requests and sets the following headers:
 
-## Getting Started
+- "Content-Security-Policy": `default-src 'none'; form-action 'self'; font-src 'self'; img-src 'self'; script-src 'unsafe-inline' https: 'strict-dynamic' 'nonce-${nonce}'; style-src 'self'; base-uri 'none'; frame-ancestors 'none'; connect-src 'self'`
+- "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+- "Permissions-Policy": "interest-cohort=()"
+- "X-XSS-Protection": "0"
+- "X-Frame-Options": "DENY"
+- "X-Content-Type-Options": "nosniff"
+- "Referrer-Policy": "strict-origin-when-cross-origin"
+- "Cross-Origin-Embedder-Policy": 'require-corp; report-to="default";'
+- "Cross-Origin-Opener-Policy": 'same-site; report-to="default";'
+- "Cross-Origin-Resource-Policy": "same-site"
 
-### Dependencies
+It also removes the following headers:
 
-- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-- ex. Windows 10
+- "Public-Key-Pins"
+- "X-Powered-By"
+- "X-AspNet-Version"
 
-### Installing
-
-- How/where to download your program
-- Any modifications needed to be made to files/folders
-
-### Executing program
-
-- How to run the program
-- Step-by-step bullets
-
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
-
-## Version History
-
-- 0.2
-  - Various bug fixes and optimizations
-  - See [commit change]() or See [release history]()
-- 0.1
-  - Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+The rational behind creating this was so I could increase the security & privacy of users on my static sites hosted on cloudflare pages
