@@ -4,18 +4,21 @@
   "description": "",
   "main": "dist/worker.js",
   "scripts": {
+    "build": "webpack",
     "test": "jest",
     "lint": "prettier --write . && eslint src/**",
     "lint-fix": "prettier --write . && eslint src/** --fix",
     "coverage": "jest --coverage"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^3.0.0",
     "@types/jest": "^27.4.0",
     "eslint-config-typescript-airbnb-prettier": "^1.1.2",
     "eslint-plugin-jest": "^25.3.4",
     "husky": "^7.0.4",
     "jest": "^27.4.7",
     "ts-jest": "^27.1.2",
+    "ts-loader": "^9.2.2",
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0",
     "wrangler": "^0.0.4"
