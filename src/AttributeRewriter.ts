@@ -7,6 +7,5 @@ export default class AttributeRewriter {
 
   element(element: Element) {
     element.setAttribute("nonce", this.nonce);
-    element.setAttribute("type", "module");
   }
 }
