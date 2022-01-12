@@ -24,7 +24,7 @@ export default async (request: any): Promise<Response> => {
     NEW_HEADERS.delete(name);
   });
 
-  return new HTMLRewriter().on("#bundle", new AttributeRewriter(NONCE)).transform(
+  return new HTMLRewriter().on("script", new AttributeRewriter(NONCE)).transform(
     new Response(RESPONSE.body, {
       status: RESPONSE.status,
       statusText: RESPONSE.statusText,
